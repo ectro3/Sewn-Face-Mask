@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="45.668839mm"
+   height="8.27495mm"
+   viewBox="0 0 45.668839 8.2749501"
+   version="1.1"
+   id="svg1029"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Metal Strip Pattern.svg">
+  <defs
+     id="defs1023" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="166.6809"
+     inkscape:cy="46.275267"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1026">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(102.3953,-113.81842)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -84.113731,113.84342 h 4.55267 4.55116 c 4.992389,0 7.132839,0.83606 10.516338,1.65415 1.37958,0.33356 3.329271,0.80859 4.92941,1.28798 0.800071,0.2397 1.512882,0.48076 2.020753,0.70399 0.253918,0.11163 0.456128,0.21841 0.591439,0.31627 0.13531,0.0978 0.200498,0.18495 0.200498,0.25387 v 3.0853 c 0,0.18949 -0.131318,0.42764 -0.341648,0.61211 -0.21031,0.18448 -0.492641,0.31128 -0.785972,0.31128 h -21.681978 -21.681619 c -0.29334,0 -0.57603,-0.1268 -0.78635,-0.31128 -0.21032,-0.18447 -0.34127,-0.42262 -0.34127,-0.61211 v -3.0853 c 0,-0.069 0.0648,-0.15603 0.20013,-0.25387 0.13532,-0.0978 0.33751,-0.20464 0.59144,-0.31627 0.50788,-0.22323 1.22069,-0.46429 2.020749,-0.70399 1.60014,-0.47939 3.54834,-0.95442 4.92791,-1.28798 3.38351,-0.81809 5.52396,-1.65415 10.51634,-1.65415 z"
+       id="path883-8-0-5"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
