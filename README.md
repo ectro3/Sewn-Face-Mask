@@ -1,3 +1,3 @@
 # Sewn-Face-Mask
 
-Assembly instructions: 
+Assembly instructions: https://imgur.com/gallery/RWApcHZ
